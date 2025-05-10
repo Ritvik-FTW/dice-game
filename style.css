@@ -48,3 +48,15 @@ button:disabled {
     font-weight: bold;
     margin-top: 20px;
 }
+#message {
+    margin: 20px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+    text-align: center;
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
